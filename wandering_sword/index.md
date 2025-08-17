@@ -8,4 +8,7 @@
 
 ## 初出茅庐篇
 
--[初出茅庐篇](chapters/chapter1.md)
+- [初出茅庐篇](chapters/chapter1.md)
+- [入门弟子篇](chapters/chapter2.md)
+- [资深弟子篇](chapters/chapter3.md)
+- [精英弟子篇](chapters/chapter4.md)
