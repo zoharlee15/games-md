@@ -1,4 +1,9 @@
 # _config.yml
-markdown: kramdown  # 指定 Markdown 渲染引擎（GitHub Pages 推荐）
-theme: jekyll-theme-slate  # 可选：指定一个主题（会自动美化页面）
-# 其他可选主题：minimal、hacker、merlot、slate 等，可自行替换
+markdown: kramdown
+theme: jekyll-theme-slate
+title: Games
+author: 叶枫影
+
+kramdown:
+  enable_table_of_contents: true
+  toc_levels: 1..6
