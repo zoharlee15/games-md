@@ -6,8 +6,6 @@
 
 一周目只需临时存档拿分支图鉴，多周目拿玉龙再去收集剩余极难成就和剩余图鉴。
 
-## 初出茅庐篇
-
 - [初出茅庐篇](chapters/chapter1.md)
 - [入门弟子篇](chapters/chapter2.md)
 - [资深弟子篇](chapters/chapter3.md)
