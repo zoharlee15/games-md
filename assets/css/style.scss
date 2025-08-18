@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* 覆盖背景图，使用纯灰色背景 */
+body {
+  background-color: #333333; /* 您可以选择任何灰色色调 */
+  background-image: none; /* 移除背景图 */
+}
