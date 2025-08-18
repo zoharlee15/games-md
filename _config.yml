@@ -1,6 +1,6 @@
 # _config.yml
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: Games
 author: 叶枫影
 toc: true
