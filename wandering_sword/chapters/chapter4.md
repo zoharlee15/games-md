@@ -71,6 +71,7 @@
 * 晋庸右上角<span style="color:rgb(0, 255, 255)">邀请[孔亮]</span>
 * 请教[孔亮] <span style="color:rgb(255, 255, 0)">【天罡刀法】</span>
 * 前往丐帮。
+
 ## 【丐帮】
 
 * 切磋[侯九]【佛跳墙菜谱】
@@ -114,4 +115,5 @@
 ### 【支线】娄赴召的归宿
 
 * 走至湖中心，战斗后获得<span style="color:rgb(255, 255, 0)">【刀山火海势】</span>、<span style="color:rgb(255, 255, 0)">【玄火掌法秘籍】</span>
-* <span style="color:rgb(0, 255, 255)">邀请[叶飞]</span>，切磋得<span style="color:rgb(255, 255, 0)">【雁行功秘籍】</span>
+* <span style="color:rgb(0, 255, 255)">邀请[叶飞]</span>
+* 切磋[叶飞]<span style="color:rgb(255, 255, 0)">【雁行功秘籍】</span>
