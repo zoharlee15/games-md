@@ -1,9 +1,9 @@
 # _config.yml
 markdown: kramdown
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 title: Games
 author: 叶枫影
+toc: true
 
-kramdown:
-  enable_table_of_contents: true
-  toc_levels: 1..6
+plugins:
+  - jekyll-toc
